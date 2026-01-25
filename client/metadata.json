@@ -1,0 +1,7 @@
+{
+  "name": "MediConnect AI",
+  "description": "A comprehensive medical appointment booking and disease recommendation system featuring AI-powered symptom analysis and Google Maps integration for hospital finding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
